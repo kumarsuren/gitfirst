@@ -8,7 +8,7 @@ public class GitTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Git is yet to master... so far so good");
+		System.out.println("Git is yet to be mastered... so far so good");
 	}
 
 }
