@@ -10,6 +10,7 @@ public class GitTest {
 
 		System.out.println("Git is yet to be mastered... so far so good");
 		System.out.println("Git is looking cool...");
+		System.out.println("New ways to operate git is being learned ...1 ");
 	}
 
 }
