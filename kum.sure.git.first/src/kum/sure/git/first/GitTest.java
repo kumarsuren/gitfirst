@@ -18,7 +18,7 @@ public class GitTest {
 		
 		System.out.println("At this point of time I have the project added to GitHub and adding more changes through Eclipse");
 		
-		
+		System.out.println("This change is from Eclipse before Github change is merged back");
 		System.out.println(" this line is added from the GitHub code editor...");
 		/*
 		java code comments from GitHub editor.
