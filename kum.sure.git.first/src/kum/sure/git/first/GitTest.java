@@ -16,6 +16,7 @@ public class GitTest {
 		 * This comment is added to change the code
 		 */
 		
+		System.out.println("At this point of time I have the project added to GitHub and adding more changes through Eclipse");
 	}
 
 }
