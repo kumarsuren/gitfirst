@@ -26,6 +26,16 @@ public class GitTest {
 		*/
 		
 		
+		testMe();
+		
+		
+	}
+	
+	
+	
+	public static String testMe(){
+		System.out.println("testme method is called.....");
+		return "success";
 	}
 
 }
